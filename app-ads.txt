@@ -1,5 +1,5 @@
 # start.io
-start.io, 164369305, DIRECT
+# start.io, 164369305, DIRECT
 pubnative.net, 1007349, RESELLER, d641df8625486a7b
 Verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 pubnative.net, 1008289, RESELLER, d641df8625486a7b
